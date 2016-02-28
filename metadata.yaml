@@ -1,0 +1,26 @@
+_repo: Pickle-the-Spy-Or-the-Incognito-of-Prince-Charles_6807
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Macdonell, Alastair Ruadh, 1725?-1761'
+- !lcsh 'Jacobite Rebellion, 1745-1746'
+- !lcc 'DA'
+- !lcsh 'Charles Edward, Prince, grandson of James II, King of England, 1720-1788'
+title: Pickle the Spy; Or, the Incognito of Prince Charles
+url: http://www.gutenberg.org/ebooks/6807
