@@ -1,4 +1,8 @@
 _repo: Pickle-the-Spy-Or-the-Incognito-of-Prince-Charles_6807
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lang, Andrew
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6807#Pickle-the-Spy-Or-the-Incognito-of-Prince-Charles
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
